@@ -1,0 +1,17 @@
+.table {
+}
+.inputTable{
+  width: 200px;
+  margin-inline: auto;
+  margin-block: 30px;
+  height: 30px;
+  font-size: large;
+  background-color: rgb(96 165 250);
+  border: 0;
+  border-radius: 10px;
+  padding: 5px;
+}
+.divTable{
+  display: flex;
+  flex-direction: column;
+}

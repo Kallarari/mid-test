@@ -1,0 +1,13 @@
+
+.header {
+    height: 100px;
+    background: rgb(199,199,199);
+    background: linear-gradient(233deg, #fff 0%, rgba(176,176,176,1) 100%);
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .headerText{
+    color:rgb(33, 33, 33);
+  }
