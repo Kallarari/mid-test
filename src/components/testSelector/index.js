@@ -40,7 +40,7 @@ function TestSelector() {
       <div className={styles.carrousel}>
         <button
           onClick={() =>
-            setItemSelected(itemSelected < 2 ? 7 : itemSelected - 1)
+            setItemSelected(itemSelected < 2 ? 8 : itemSelected - 1)
           }
         >
           &lt;
